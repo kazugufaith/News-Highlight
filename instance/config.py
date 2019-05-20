@@ -1,0 +1,3 @@
+NEWS_API_KEY= "fd691520fddc45258320ec9fbfa31d02"
+
+SECRET_KEY="faith254"
